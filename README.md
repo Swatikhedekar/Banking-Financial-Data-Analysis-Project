@@ -4,7 +4,9 @@ This project entails a comprehensive analysis of financial data from Czechoslova
 ### Dataset Description
 The dataset consists of following eight tables:
 **Account** – Information about bank accounts.
+
 **Card** – Details of issued credit and debit cards.
+
 **Disposition** – Relationships between clients and accounts.
 **District** – Demographic data of different regions.
 **Loan** – Information on loans issued by the bank.
