@@ -1,33 +1,21 @@
-# Czechoslovakia Banking-Financial-Data-A nalysis-Project
+# Czechoslovakia Banking Financial Data Analysis Project
 ###  Project Overview
 This project entails a comprehensive analysis of financial data from Czechoslovakia Bank over a five-year period. The dataset includes crucial information about the bank’s clients, accounts, cards, loans, transactions, and orders. The objective of this analysis is to provide the Czechoslovakia Bank with actionable insights that can help them make informed decisions about their financial operations. The analysis will involve data cleaning, exploratory data analysis, and predictive modelling to identify patterns and trends in the data. 
 ### Dataset Description
+The dataset consists of following eight tables:
+**Account** – Information about bank accounts.
+**Card** – Details of issued credit and debit cards.
+**Disposition** – Relationships between clients and accounts.
+**District** – Demographic data of different regions.
+**Loan** – Information on loans issued by the bank.
+**Order** – Records of financial orders.
+**Transaction** – Historical transactions of bank accounts.
 
-The dataset consists of eight tables:
-
-Account – Information about bank accounts.
-
-Card – Details of issued credit and debit cards.
-
-Disposition – Relationships between clients and accounts.
-
-District – Demographic data of different regions.
-
-Loan – Information on loans issued by the bank.
-
-Order – Records of financial orders.
-
-Transaction – Historical transactions of bank accounts.
-
-Project Workflow
-
+### Project Workflow
 This end-to-end financial data analytics model is fully automated and follows four key steps:
-
-Step 1: Data Preprocessing in MS Excel
-
-Basic data cleaning.
-
-Converting file types to CSV for further processing.
+**Step 1**: Data Preprocessing in MS Excel
+- Basic data cleaning.
+- Converting file types to CSV for further processing.
 
 Step 2: Data Storage in AWS S3
 
