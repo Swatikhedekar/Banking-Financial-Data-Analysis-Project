@@ -1,5 +1,5 @@
 # Czechoslovakia Banking-Financial-Data-Analysis-Project
-The end_to_end project of Data Analysis under the Full Stack Data Analysis Course from ineuron.ai under the guidance of Anand Jha sir.
+This is end_to_end project of Data Analysis under the Full Stack Data Analysis Course from ineuron.ai under the guidance of Anand Jha sir.
 
 End-To-End-Data-Analytics-Project-Czechoslovakia Banking Financial Data Analysis
 This project is on the datasets manually created by Anand Jha sir over a period of so many weeks which covers 1M records generated on a random basis involving 8 tables. A must project to showcase in your resume. Just Try It out.
